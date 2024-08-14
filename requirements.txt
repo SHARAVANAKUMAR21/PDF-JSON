@@ -1,0 +1,16 @@
+## Setup
+
+### Create and Activate Virtual Environment
+
+1. **Create a virtual environment**:
+   ```bash
+python -m venv venv
+
+
+2. **Installing Libraries**
+
+pdfplumber==0.5.28
+pydantic==1.8.2
+streamlit==1.20.0
+
+
